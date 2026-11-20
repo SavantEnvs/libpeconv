@@ -1,0 +1,6 @@
+== lz32.dll size=12288 raw=1
+v_size=0x3000 64bit=1 base=0x180000000 ep=0x0 sections=2
+relocs=0 imports=0
+thunks=0
+exports=12 CopyLZFile GetExpandedNameA GetExpandedNameW
+unmapped=0x3000

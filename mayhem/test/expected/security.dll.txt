@@ -1,0 +1,6 @@
+== security.dll size=8192 raw=1
+v_size=0x2000 64bit=1 base=0x180000000 ep=0x0 sections=1
+relocs=0 imports=0
+thunks=0
+exports=36 AcceptSecurityContext AcquireCredentialsHandleA AcquireCredentialsHandleW
+unmapped=0x2000

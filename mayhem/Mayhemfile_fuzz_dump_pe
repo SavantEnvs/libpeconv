@@ -1,0 +1,11 @@
+project: savantenvs/libpeconv
+target: fuzz_dump_pe
+
+cmds:
+  - cmd: /mayhem/mayhem/out/fuzz_dump_pe
+    libfuzzer: true
+    timeout: 5
+
+testsuite:
+  - https://$MAYHEM_DOMAIN/$MAYHEM_PROJECT/$MAYHEM_TARGET/testsuite.tar
+  - file://mayhem/fuzz_dump_pe/testsuite

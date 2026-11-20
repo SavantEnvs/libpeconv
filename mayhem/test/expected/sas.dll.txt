@@ -1,0 +1,6 @@
+== sas.dll size=70675 raw=0
+v_size=0x10000 64bit=1 base=0x180000000 ep=0x1070 sections=15
+relocs=0 imports=1
+thunks=2
+exports=1 SendSAS
+unmapped=0x10000

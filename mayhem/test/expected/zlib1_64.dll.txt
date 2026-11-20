@@ -1,0 +1,6 @@
+== zlib1_64.dll size=137728 raw=1
+v_size=0x2a000 64bit=1 base=0x241b90000 ep=0x1330 sections=12
+relocs=1 imports=1
+thunks=44
+exports=89 adler32 adler32_combine adler32_combine64
+unmapped=0x21a00
